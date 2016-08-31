@@ -10,6 +10,8 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 import java.time.DayOfWeek;
 import java.time.LocalTime;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Created by hdant on 28/08/2016.
@@ -36,22 +38,18 @@ public class Utils {
                     int creditos = Integer.parseInt(eElement.getElementsByTagName("creditos").item(0).getTextContent());
                     String nota = eElement.getElementsByTagName("conceito").item(0).getTextContent();
                     String categoria = eElement.getElementsByTagName("categoria").item(0).getTextContent();
+
                     
-                    Pattern emailRegex = Pattern.compile("(([A-Za-z]*\\ )([A-Za-z]*\\ \\())" +
-                            "(([a-z0-9\\.\\_\\-]*)@([a-z]+).([a-z\\.]+))");
-                    Matcher email = emailRegex.matcher(mPlMail);
+                    Pattern codigoRegex = Pattern.compile("[A-Z]{3,4}[0-9]{3,4}-[0-9]{2}");
+                    Matcher codigoMatcher = codigoRegex.matcher(codigo);
                     String[] cc = new String[2];
 
-                    if (email.find()) {
-                    
-                    if (codigo){
+                    if (codigoMatcher.find()) {
                     	CodigoUFABC codigoUFABC = new CodigoUFABC(codigo);
                     	mFicha[temp] = new MateriaUFABCCursada(codigoUFABC, nome, creditos, nota, categoria);
                     }else{
                     	mFicha[temp] = new MateriaFora(codigo, nome, creditos);
                     }
-
-                    
                 }
             }
         } catch (Exception e) {
