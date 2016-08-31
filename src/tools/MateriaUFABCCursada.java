@@ -6,9 +6,9 @@ package tools;
 public class MateriaUFABCCursada extends MateriaUFABC {
     Nota nota;
     Categoria categoria;
-    public MateriaUFABCCursada(String co, String no, int te, int pr, int in, String n, String c) {
-        super(co, no, te, pr, in);
-        this.nota = Nota.valueOf(n);
-        this.categoria = Categoria.valueOf(c);
+    public MateriaUFABCCursada(CodigoUFABC cUfabc, String no, int cr, String nt, String ca) {
+        super(cUfabc, no, cr);
+        this.nota = Nota.valueOf(nt);
+        this.categoria = Categoria.valueOf(ca);
     }
 }

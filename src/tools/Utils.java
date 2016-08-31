@@ -30,20 +30,33 @@ public class Utils {
                 Node nNode = nList.item(temp);
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     Element eElement = (Element) nNode;
-                    if ()
-                    DayOfWeek dds = DayOfWeek.valueOf(eElement.getElementsByTagName("dia").item(0).getTextContent());
-                    Trajeto linha = Trajeto.valueOf("L"+eElement.getElementsByTagName("linha").item(0).getTextContent());
+                    
+                    String codigo = eElement.getElementsByTagName("codigo").item(0).getTextContent();
+                    String nome = eElement.getElementsByTagName("disciplina").item(0).getTextContent();
+                    int creditos = Integer.parseInt(eElement.getElementsByTagName("creditos").item(0).getTextContent());
+                    String nota = eElement.getElementsByTagName("conceito").item(0).getTextContent();
+                    String categoria = eElement.getElementsByTagName("categoria").item(0).getTextContent();
+                    
+                    Pattern emailRegex = Pattern.compile("(([A-Za-z]*\\ )([A-Za-z]*\\ \\())" +
+                            "(([a-z0-9\\.\\_\\-]*)@([a-z]+).([a-z\\.]+))");
+                    Matcher email = emailRegex.matcher(mPlMail);
+                    String[] cc = new String[2];
 
-                    int hp = Integer.parseInt(eElement.getElementsByTagName("hp").item(0).getTextContent());
-                    int mp = Integer.parseInt(eElement.getElementsByTagName("mp").item(0).getTextContent());
-                    int hc = Integer.parseInt(eElement.getElementsByTagName("hc").item(0).getTextContent());
-                    int mc = Integer.parseInt(eElement.getElementsByTagName("mc").item(0).getTextContent());
-                    linha2p[temp] = new Itinerario2Pontos(linha,dds, LocalTime.of(hp,mp),LocalTime.of(hc,mc));
+                    if (email.find()) {
+                    
+                    if (codigo){
+                    	CodigoUFABC codigoUFABC = new CodigoUFABC(codigo);
+                    	mFicha[temp] = new MateriaUFABCCursada(codigoUFABC, nome, creditos, nota, categoria);
+                    }else{
+                    	mFicha[temp] = new MateriaFora(codigo, nome, creditos);
+                    }
+
+                    
                 }
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return linha2p;
+        return mFicha;
     }
 }
