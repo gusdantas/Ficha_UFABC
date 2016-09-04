@@ -18,4 +18,8 @@ public class CodigoUFABC {
 		return ano;
 	}
 
+    @Override
+    public String toString() {
+        return codigo+"-"+String.valueOf(ano);
+    }
 }

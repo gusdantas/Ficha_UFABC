@@ -23,7 +23,7 @@ public class Utils {
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(fXmlFile);
 			doc.getDocumentElement().normalize();
-			NodeList nList = doc.getElementsByTagName("Disciplinas");
+			NodeList nList = doc.getElementsByTagName("Disciplina");
 			mFicha = new Object[nList.getLength()];
 
 			for (int temp = 0; temp < nList.getLength(); temp++) {
@@ -36,13 +36,21 @@ public class Utils {
 					int creditos = Integer.parseInt(eElement.getElementsByTagName("creditos").item(0).getTextContent());
 					String nota = eElement.getElementsByTagName("conceito").item(0).getTextContent();
 					String categoria = eElement.getElementsByTagName("categoria").item(0).getTextContent();
+                    int periodo = Integer.parseInt(eElement.getElementsByTagName("periodo").item(0).getTextContent());
+                    int ano = Integer.parseInt(eElement.getElementsByTagName("ano").item(0).getTextContent());
 
-					if (categoria.equals("Obrigatória")) {
-						categoria = "Obrigatoria";
-					} else if (categoria.equals("Opção Limitada")) {
-						categoria = "Opcao Limitada";
-					}
-					categoria.replace(" ", "");
+
+                    switch (categoria) {
+                        case "ObrigatÃ³ria":
+                            categoria = "Obrigatoria";
+                            break;
+                        case "OpÃ§Ã£o Limitada":
+                            categoria = "Limitada";
+                            break;
+                        default:
+                            categoria = "Livre";
+                            break;
+                    }
 
 					Pattern codigoRegex = Pattern.compile("[A-Z]{3,4}[0-9]{3,4}-[0-9]{2}");
 					Matcher codigoMatcher = codigoRegex.matcher(codigo);
@@ -50,9 +58,9 @@ public class Utils {
 					if (codigoMatcher.find()) {
 						CodigoUFABC codigoUFABC = new CodigoUFABC(codigo);
 						mFicha[temp] = new MateriaUFABCCursada(codigoUFABC, nome, creditos, nota,
-								categoria.toUpperCase());
+								categoria.toUpperCase(), periodo, ano);
 					} else {
-						mFicha[temp] = new MateriaFora(codigo, nome, creditos);
+						mFicha[temp] = new MateriaFora(codigo, nome, creditos, periodo, ano);
 					}
 				}
 			}

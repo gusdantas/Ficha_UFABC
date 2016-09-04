@@ -12,4 +12,21 @@ public abstract class Materia {
 		this.nome = no;
 		this.creditos = cr;
 	}
+
+    public String getCodigo() {
+        return codigo;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public int getCreditos() {
+        return creditos;
+    }
+
+    @Override
+    public String toString() {
+        return codigo+" - "+nome+" - "+creditos;
+    }
 }
