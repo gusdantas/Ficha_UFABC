@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso>
+  <materia>
+    <CÓDIGO>BC1425</CÓDIGO>
+    <DISCIPLINA>Álgebra Linear</DISCIPLINA>
+    <TEORIA>6</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>6</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1424</CÓDIGO>
+    <DISCIPLINA>Algoritmos e Estruturas de Dados I</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Orientada a Objetos</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3630</CÓDIGO>
+    <DISCIPLINA>Aplicações de Microcontroladores</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>4</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Sistemas Microprocessado; Eletrônica Analógica Aplicada</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3626</CÓDIGO>
+    <DISCIPLINA>Aplicações Multimídia em Voz, Áudio e Acústica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Introdução ao Processamento de Sinais de Voz, Áudio e Acústicos</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0001</CÓDIGO>
+    <DISCIPLINA>Base Experimental das Ciências Naturais</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>3</PRATICA>
+    <INDIVIDUAL>2</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0005</CÓDIGO>
+    <DISCIPLINA>Bases Computacionais da Ciência</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>2</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0004</CÓDIGO>
+    <DISCIPLINA>Bases Epistemológicas da Ciência Moderna</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0003</CÓDIGO>
+    <DISCIPLINA>Bases Matemáticas</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1419</CÓDIGO>
+    <DISCIPLINA>Cálculo Numérico</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Uma Variável</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0603</CÓDIGO>
+    <DISCIPLINA>Ciência, Tecnologia e Sociedade</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1519</CÓDIGO>
+    <DISCIPLINA>Circuitos Elétricos e Fotônica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2703</CÓDIGO>
+    <DISCIPLINA>Circuitos Elétricos I</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2611</CÓDIGO>
+    <DISCIPLINA>Comunicação Digital</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Princípios de Comunicação; Sinais Aleatórios</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0506</CÓDIGO>
+    <DISCIPLINA>Comunicação e Redes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2620</CÓDIGO>
+    <DISCIPLINA>Comunicações Móveis</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação Digital; Propagação e Antenas</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2621</CÓDIGO>
+    <DISCIPLINA>Comunicações Multimídia</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2614</CÓDIGO>
+    <DISCIPLINA>Comunicações Ópticas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2719</CÓDIGO>
+    <DISCIPLINA>Dispositivos Eletrônicos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2720</CÓDIGO>
+    <DISCIPLINA>Eletrônica Analógica Aplicada</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Dispositivos Eletrônicos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2605</CÓDIGO>
+    <DISCIPLINA>Eletrônica Digital</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>6</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0207</CÓDIGO>
+    <DISCIPLINA>Energia: Origens, Conversão e Uso</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3631</CÓDIGO>
+    <DISCIPLINA>Engenharia de Sistemas de Comunicação e Missão Crítica</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1508</CÓDIGO>
+    <DISCIPLINA>Engenharia de Software</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>6</CRÉDITOS>
+    <RECOMENDAÇÕES>Algoritmos e Estruturas de Dados I</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1713</CÓDIGO>
+    <DISCIPLINA>Engenharia Econômica</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>3</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN1002</CÓDIGO>
+    <DISCIPLINA>Engenharia Unificada I</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>3</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Todas as disciplinas de Opção Limitada do BC&amp;T (Obrigatórias para todas as Engenharias)</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN1004</CÓDIGO>
+    <DISCIPLINA>Engenharia Unificada II</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>3</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Engenharia Unificada I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN1601</CÓDIGO>
+    <DISCIPLINA>Estágio Curricular I em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>7</PRATICA>
+    <INDIVIDUAL>0</INDIVIDUAL>
+    <CRÉDITOS>7</CRÉDITOS>
+    <RECOMENDAÇÕES>Ver resolução de Estágio específica para o curso</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN1602</CÓDIGO>
+    <DISCIPLINA>Estágio Curricular II em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>7</PRATICA>
+    <INDIVIDUAL>0</INDIVIDUAL>
+    <CRÉDITOS>7</CRÉDITOS>
+    <RECOMENDAÇÕES>Estágio Curricular I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0102</CÓDIGO>
+    <DISCIPLINA>Estrutura da Matéria</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0602</CÓDIGO>
+    <DISCIPLINA>Estrutura e Dinâmica Social</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0209</CÓDIGO>
+    <DISCIPLINA>Fenômenos Eletromagnéticos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0208</CÓDIGO>
+    <DISCIPLINA>Fenômenos Mecânicos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0205</CÓDIGO>
+    <DISCIPLINA>Fenômenos Térmicos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3604</CÓDIGO>
+    <DISCIPLINA>Filtragem Adaptativa</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Sinais Aleatórios; Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0103</CÓDIGO>
+    <DISCIPLINA>Física Quântica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0402</CÓDIGO>
+    <DISCIPLINA>Funções de Uma Variável</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0407</CÓDIGO>
+    <DISCIPLINA>Funções de Várias Variáveis</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1416</CÓDIGO>
+    <DISCIPLINA>Fundamentos de Desenho e Projeto</DISCIPLINA>
+    <TEORIA>1</TEORIA>
+    <PRATICA>3</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3622</CÓDIGO>
+    <DISCIPLINA>Fundamentos de Processamento Gráfico</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica; Álgebra Linear; Processamento da Informação; Programação de Software Embarcado</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0404</CÓDIGO>
+    <DISCIPLINA>Geometria Analítica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3610</CÓDIGO>
+    <DISCIPLINA>Gerenciamento e Interoperabilidade de Redes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3601</CÓDIGO>
+    <DISCIPLINA>Informação e Sociedade</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>3</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3618</CÓDIGO>
+    <DISCIPLINA>Informática Industrial</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>4</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Eletrônica Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1507</CÓDIGO>
+    <DISCIPLINA>Instrumentação e Controle</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Introdução às Equações Diferenciais Ordinárias; Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0104</CÓDIGO>
+    <DISCIPLINA>Interações Atômicas e Moleculares</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0406</CÓDIGO>
+    <DISCIPLINA>Introdução à Probabilidade e à Estatística</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3620</CÓDIGO>
+    <DISCIPLINA>Introdução ao Processamento de Sinais de Voz, Áudio e Acústicos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1710</CÓDIGO>
+    <DISCIPLINA>Introdução às Engenharias</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0405</CÓDIGO>
+    <DISCIPLINA>Introdução às Equações Diferenciais Ordinárias</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3617</CÓDIGO>
+    <DISCIPLINA>Jogos Digitais: Aspectos Técnicos e Aplicações</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1105</CÓDIGO>
+    <DISCIPLINA>Materiais e Suas Propriedades</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1103</CÓDIGO>
+    <DISCIPLINA>Mecânica dos Fluidos I</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Térmicos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1104</CÓDIGO>
+    <DISCIPLINA>Mecânica dos Sólidos I</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Uma Variável; Fenômenos Mecânicos; Geometria Analítica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1707</CÓDIGO>
+    <DISCIPLINA>Métodos Experimentais em Engenharia</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>3</PRATICA>
+    <INDIVIDUAL>2</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica; Mecânica dos Fluidos I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0504</CÓDIGO>
+    <DISCIPLINA>Natureza da Informação</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2613</CÓDIGO>
+    <DISCIPLINA>Ondas Eletromagnéticas Aplicadas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0304</CÓDIGO>
+    <DISCIPLINA>Origem da Vida e Diversidade dos Seres Vivos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3627</CÓDIGO>
+    <DISCIPLINA>Planejamento de Redes de Informação</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação e Redes</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2608</CÓDIGO>
+    <DISCIPLINA>Princípios de Comunicação</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0505</CÓDIGO>
+    <DISCIPLINA>Processamento da Informação</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3605</CÓDIGO>
+    <DISCIPLINA>Processamento de Informação em Línguas Naturais</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Natureza da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3612</CÓDIGO>
+    <DISCIPLINA>Processamento de Vídeo</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicações Multimídia; Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2610</CÓDIGO>
+    <DISCIPLINA>Processamento Digital de Sinais</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3616</CÓDIGO>
+    <DISCIPLINA>Programação de Dispositivos Móveis</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2622</CÓDIGO>
+    <DISCIPLINA>Programação de Software Embarcado</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica; Álgebra Linear; Processamento da Infomação</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1501</CÓDIGO>
+    <DISCIPLINA>Programação Orientada a Objetos</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3625</CÓDIGO>
+    <DISCIPLINA>Projeto de Alta Frequência</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas; Eletrônica Analógica Aplicada; Sistemas de Micro-ondas</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3621</CÓDIGO>
+    <DISCIPLINA>Projeto de Filtros Digitais</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3628</CÓDIGO>
+    <DISCIPLINA>Projeto de Sistemas de Comunicação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>3</PRATICA>
+    <INDIVIDUAL>3</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Princípios de Comunicação; Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3629</CÓDIGO>
+    <DISCIPLINA>Projeto de Sistemas Multimídia</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>3</PRATICA>
+    <INDIVIDUAL>3</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicações Multimídia; Processamento de Vídeo; Introdução ao Processamento de Sinais de Voz, Áudio e Acústicos</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0002</CÓDIGO>
+    <DISCIPLINA>Projeto Dirigido</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>10</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2615</CÓDIGO>
+    <DISCIPLINA>Propagação e Antenas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3608</CÓDIGO>
+    <DISCIPLINA>Redes de Alta Velocidade</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1513</CÓDIGO>
+    <DISCIPLINA>Redes de Computadores</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3611</CÓDIGO>
+    <DISCIPLINA>Segurança de Redes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3615</CÓDIGO>
+    <DISCIPLINA>Simulação de Sistemas de Comunicação</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Princípios de Comunicação; Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2609</CÓDIGO>
+    <DISCIPLINA>Sinais Aleatórios</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Introdução à Probabilidade e à Estatística; Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3624</CÓDIGO>
+    <DISCIPLINA>Sistemas de Micro-ondas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas; Eletrônica Analógica Aplicada</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3619</CÓDIGO>
+    <DISCIPLINA>Sistemas Inteligentes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2617</CÓDIGO>
+    <DISCIPLINA>Sistemas Microprocessados</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Eletrônica Digital; Dispositivos Eletrônicos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3623</CÓDIGO>
+    <DISCIPLINA>Tecnologia de Redes Ópticas</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicações Ópticas</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2619</CÓDIGO>
+    <DISCIPLINA>Telefonia Fixa Moderna</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores; Princípios de Comunicação</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN2612</CÓDIGO>
+    <DISCIPLINA>Teoria da Informação e Códigos</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3609</CÓDIGO>
+    <DISCIPLINA>Teoria de Filas e Análise de Desempenho</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Sinais Aleatórios; Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1309</CÓDIGO>
+    <DISCIPLINA>Termodinâmica Aplicada I</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Térmicos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN1603</CÓDIGO>
+    <DISCIPLINA>Trabalho de Graduação I em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Ver resolução de TG específica para o curso</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN1604</CÓDIGO>
+    <DISCIPLINA>Trabalho de Graduação II em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Trabalho de Graduação I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN1605</CÓDIGO>
+    <DISCIPLINA>Trabalho de Graduação III em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Trabalho de Graduação II</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0308</CÓDIGO>
+    <DISCIPLINA>Transformações Bioquímicas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0306</CÓDIGO>
+    <DISCIPLINA>Transformações nos Seres Vivos e Ambiente</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC0307</CÓDIGO>
+    <DISCIPLINA>Transformações Químicas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>2</PRATICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES></RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BC1509</CÓDIGO>
+    <DISCIPLINA>Transformadas em Sinais e Sistemas Lineares</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRATICA>0</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Várias Variáveis</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>EN3606</CÓDIGO>
+    <DISCIPLINA>TV Digital</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRATICA>1</PRATICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+</curso>

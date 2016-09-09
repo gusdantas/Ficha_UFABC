@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso>
+  <materia>
+    <CÓDIGO>MCTB001-13</CÓDIGO>
+    <DISCIPLINA>Álgebra Linear</DISCIPLINA>
+    <TEORIA>6</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>6</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA001-13</CÓDIGO>
+    <DISCIPLINA>Algoritmos e Estruturas de Dados I</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Estruturada</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA002-13</CÓDIGO>
+    <DISCIPLINA>Algoritmos e Estruturas de Dados II</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Algoritmos e Estruturas de Dados I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI025-17</CÓDIGO>
+    <DISCIPLINA>Aplicações de Microcontroladores</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>4</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Sistemas Microprocessado; Eletrônica Analógica Aplicada</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI037-17</CÓDIGO>
+    <DISCIPLINA>Aplicações em Voz, Áudio e Acústica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Introdução ao Processamento de Sinais de Voz, Áudio e Acústicos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA004-13</CÓDIGO>
+    <DISCIPLINA>Arquitetura de Computadores</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Digitais; Sistemas Digitais</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA005-13</CÓDIGO>
+    <DISCIPLINA>Banco de Dados</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Algoritmos e Estruturas de Dados I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCS0001-15</CÓDIGO>
+    <DISCIPLINA>Base Experimental das Ciências Naturais</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>3</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIS0005-15</CÓDIGO>
+    <DISCIPLINA>Bases Computacionais da Ciência</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>2</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIJ0207-15</CÓDIGO>
+    <DISCIPLINA>Bases Conceituais da Energia</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIR0004-15</CÓDIGO>
+    <DISCIPLINA>Bases Epistemológicas da Ciência Moderna</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIS0003-15</CÓDIGO>
+    <DISCIPLINA>Bases Matemáticas</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCL0306-15</CÓDIGO>
+    <DISCIPLINA>Biodiversidade: Interações entre Organismos e Ambiente</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCL0308-15</CÓDIGO>
+    <DISCIPLINA>Bioquímica: Estrutura, Propriedade e Funções de Biomoléculas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Estrutura da Matéria; Transformações Químicas</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTB009-13</CÓDIGO>
+    <DISCIPLINA>Cálculo Numérico</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Uma Variável; Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIR0603-15</CÓDIGO>
+    <DISCIPLINA>Ciência, Tecnologia e Sociedade</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTA002-17</CÓDIGO>
+    <DISCIPLINA>Circuitos Elétricos I</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTA004-17</CÓDIGO>
+    <DISCIPLINA>Circuitos Elétricos II</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI019-17</CÓDIGO>
+    <DISCIPLINA>Codificação de Sinais Multimídia</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Estruturada; Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI007-17</CÓDIGO>
+    <DISCIPLINA>Comunicação Digital</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Princípios de Comunicação; Sinais Aleatórios</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCM0506-15</CÓDIGO>
+    <DISCIPLINA>Comunicação e Redes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI015-17</CÓDIGO>
+    <DISCIPLINA>Comunicações Móveis</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação Digital; Ondas eletromagnéticas Aplicadas</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI010-17</CÓDIGO>
+    <DISCIPLINA>Comunicações Ópticas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fundamentos de Fotônica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTA001-17</CÓDIGO>
+    <DISCIPLINA>Dispositivos Eletrônicos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica ou Circuitos Elétricos I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTA007-17</CÓDIGO>
+    <DISCIPLINA>Eletrônica Analógica Aplicada</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Dispositivos Eletrônicos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI002-17</CÓDIGO>
+    <DISCIPLINA>Eletrônica Digital</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>6</CRÉDITOS>
+    <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica ou Circuitos Elétricos I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI026-17</CÓDIGO>
+    <DISCIPLINA>Engenharia de Sistemas de Comunicação e Missão Crítica</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Estruturada</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA010-13</CÓDIGO>
+    <DISCIPLINA>Engenharia de Software</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO013-17</CÓDIGO>
+    <DISCIPLINA>Engenharia Econômica</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Uma Variável</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO902-17</CÓDIGO>
+    <DISCIPLINA>Engenharia Unificada I</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO903-17</CÓDIGO>
+    <DISCIPLINA>Engenharia Unificada II</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>REQUISITO: Engenharia Unificada I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI905-17</CÓDIGO>
+    <DISCIPLINA>Estágio Curricular em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>14</PRÁTICA>
+    <INDIVIDUAL>0</INDIVIDUAL>
+    <CRÉDITOS>14</CRÉDITOS>
+    <RECOMENDAÇÕES>REQUISITO: CPK ? 0,633 na Engenharia de Informação e demais requisitos de acordo com a Resolução de Estágio vigente</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIK0102-15</CÓDIGO>
+    <DISCIPLINA>Estrutura da Matéria</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIQ0602-15</CÓDIGO>
+    <DISCIPLINA>Estrutura e Dinâmica Social</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIL0304-15</CÓDIGO>
+    <DISCIPLINA>Evolução e Diversificação da Vida na Terra</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO016-17</CÓDIGO>
+    <DISCIPLINA>Fenômenos de Transporte</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Térmicos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCJ0203-15</CÓDIGO>
+    <DISCIPLINA>Fenômenos Eletromagnéticos</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Mecânicos; Geometria Analítica; Introdução às Equações Diferenciais Ordinárias</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCJ0204-15</CÓDIGO>
+    <DISCIPLINA>Fenômenos Mecânicos</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica; Funções de Uma Variável</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCJ0205-15</CÓDIGO>
+    <DISCIPLINA>Fenômenos Térmicos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Mecânicos; Estrutura da Matéria; Funções de Uma Variável</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI002-17</CÓDIGO>
+    <DISCIPLINA>Filtragem Adaptativa</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Sinais Aleatórios; Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCK0103-15</CÓDIGO>
+    <DISCIPLINA>Física Quântica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Estrutura da Matéria; Fenômenos Mecânicos; Fenômenos Térmicos; Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCN0402-15</CÓDIGO>
+    <DISCIPLINA>Funções de Uma Variável</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Bases Matemáticas</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCN0407-15</CÓDIGO>
+    <DISCIPLINA>Funções de Várias Variáveis</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica; Funções de Uma Variável</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI044-17</CÓDIGO>
+    <DISCIPLINA>Fundamentos da Computação Semântica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento de Informação em Línguas Naturais</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO011-17</CÓDIGO>
+    <DISCIPLINA>Fundamentos de Desenho Técnico</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI017-17</CÓDIGO>
+    <DISCIPLINA>Fundamentos de Eletromagnetismo Aplicado</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Eletromagnéticos; Circuitos Elétricos I</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI016-17</CÓDIGO>
+    <DISCIPLINA>Fundamentos de Fotônica</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI017-17</CÓDIGO>
+    <DISCIPLINA>Fundamentos de Processamento Gráfico</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Estruturada; Eletrônica Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCN0404-15</CÓDIGO>
+    <DISCIPLINA>Geometria Analítica</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Bases Matemáticas</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI030-17</CÓDIGO>
+    <DISCIPLINA>Gerenciamento e Interoperabilidade de Redes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI027-17</CÓDIGO>
+    <DISCIPLINA>Informação e Sociedade</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>3</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI013-17</CÓDIGO>
+    <DISCIPLINA>Informática Industrial</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>4</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Eletrônica Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI042-17</CÓDIGO>
+    <DISCIPLINA>Instrumentação em RF e Micro- ondas</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Métodos Experimentais em Engenharia; Transformadas em sinais e sistemas lineares; Sistemas de micro-ondas</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCK0104-15</CÓDIGO>
+    <DISCIPLINA>Interações Atômicas e Moleculares</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Transformações Químicas; Física Quântica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI045-17</CÓDIGO>
+    <DISCIPLINA>Introdução à Linguística Computacional</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCZB018-13</CÓDIGO>
+    <DISCIPLINA>Introdução à Modelagem e Processos Estocásticos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Introdução à Probabilidade e Estatística</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BIN0406-15</CÓDIGO>
+    <DISCIPLINA>Introdução à Probabilidade e à Estatística</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Uma Variável</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCZA032-14</CÓDIGO>
+    <DISCIPLINA>Introdução à Programação de Jogos</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica; Algoritmo e Estruturas de Dados I; Computação Gráfica</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI035-17</CÓDIGO>
+    <DISCIPLINA>Introdução ao Processamento de Sinais de Voz e Áudio</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento Digital de Sinais; Programação Estruturada</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO005-17</CÓDIGO>
+    <DISCIPLINA>Introdução às Engenharias</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCN0405-15</CÓDIGO>
+    <DISCIPLINA>Introdução às Equações Diferenciais Ordinárias</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Várias Variáveis</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI034-17</CÓDIGO>
+    <DISCIPLINA>Jogos Digitais: Aspectos Técnicos e Aplicações</DISCIPLINA>
+    <TEORIA>1</TEORIA>
+    <PRÁTICA>3</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Baseada em Componentes para Jogos ou Programação Orientada a Objetos</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCZA011-13</CÓDIGO>
+    <DISCIPLINA>Laboratório de Redes</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>4</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZA017-17</CÓDIGO>
+    <DISCIPLINA>Lógica Programável</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Eletrônica Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OB</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO006-17</CÓDIGO>
+    <DISCIPLINA>Materiais e Suas Propriedades</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO008-17</CÓDIGO>
+    <DISCIPLINA>Mecânica dos Sólidos I</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Uma Variável; Fenômenos Mecânicos; Geometria Analítica; Fundamentos de Desenho Técnico</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO017-17</CÓDIGO>
+    <DISCIPLINA>Métodos Experimentais em Engenharia</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Introdução às Equações Diferenciais Ordinárias; Introdução à Probabilidade e Estatística</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCM0504-15</CÓDIGO>
+    <DISCIPLINA>Natureza da Informação</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Bases Computacionais da Ciência</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI018-17</CÓDIGO>
+    <DISCIPLINA>Ondas Eletromagnéticas Aplicadas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI022-17</CÓDIGO>
+    <DISCIPLINA>Planejamento de Redes de Informação</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação e Redes</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTO012-17</CÓDIGO>
+    <DISCIPLINA>Princípios de Administração</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI004-17</CÓDIGO>
+    <DISCIPLINA>Princípios de Comunicação</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCM0505-15</CÓDIGO>
+    <DISCIPLINA>Processamento da Informação</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>5</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Bases Computacionais da Ciência</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI003-17</CÓDIGO>
+    <DISCIPLINA>Processamento de Informação em Línguas Naturais</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Natureza da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI032-17</CÓDIGO>
+    <DISCIPLINA>Processamento de Vídeo</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Codificação de Sinais Multimídia</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI006-17</CÓDIGO>
+    <DISCIPLINA>Processamento Digital de Sinais</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI043-17</CÓDIGO>
+    <DISCIPLINA>Programação Baseada em Componentes para Jogos</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Estruturada</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI033-17</CÓDIGO>
+    <DISCIPLINA>Programação de Dispositivos Móveis</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Estruturada</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI041-17</CÓDIGO>
+    <DISCIPLINA>Programação de Software Embarcado</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Geometria Analítica; Álgebra Linear; Programação Estruturada</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA028-15</CÓDIGO>
+    <DISCIPLINA>Programação Estruturada</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA018-13</CÓDIGO>
+    <DISCIPLINA>Programação Orientada a Objetos</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI036-17</CÓDIGO>
+    <DISCIPLINA>Projeto de Alta Frequência</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Sistemas de Micro-ondas</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI016-17</CÓDIGO>
+    <DISCIPLINA>Projeto de Filtros Digitais</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento Digital de Sinais</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCZA021-13</CÓDIGO>
+    <DISCIPLINA>Projeto de Redes</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI023-17</CÓDIGO>
+    <DISCIPLINA>Projeto de Sistemas de Comunicação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>3</PRÁTICA>
+    <INDIVIDUAL>3</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Princípios de Comunicação; Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI038-17</CÓDIGO>
+    <DISCIPLINA>Projeto de Sistemas Multimídia</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>3</PRÁTICA>
+    <INDIVIDUAL>3</INDIVIDUAL>
+    <CRÉDITOS>3</CRÉDITOS>
+    <RECOMENDAÇÕES>Codificação de Sinais Multimídia; Processamento de Vídeo; Introdução ao Processamento de Sinais de Voz e Áudio</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCS0002-15</CÓDIGO>
+    <DISCIPLINA>Projeto Dirigido</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>10</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>Todas as disciplinas obrigatórias do BC&amp;T</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI039-17</CÓDIGO>
+    <DISCIPLINA>Propagação e Antenas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCZA023-13</CÓDIGO>
+    <DISCIPLINA>Redes Convergentes</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA022-13</CÓDIGO>
+    <DISCIPLINA>Redes de Computadores</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI029-17</CÓDIGO>
+    <DISCIPLINA>Redes WAN de Banda Larga</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI031-17</CÓDIGO>
+    <DISCIPLINA>Segurança de Redes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCZA025-13</CÓDIGO>
+    <DISCIPLINA>Segurança em Redes</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI010-17</CÓDIGO>
+    <DISCIPLINA>Simulação de Sistemas de Comunicação</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Princípios de Comunicação; Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI005-17</CÓDIGO>
+    <DISCIPLINA>Sinais Aleatórios</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Introdução à Probabilidade e à Estatística; Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTA003-17</CÓDIGO>
+    <DISCIPLINA>Sistemas de Controle I</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI019-17</CÓDIGO>
+    <DISCIPLINA>Sistemas de Micro-ondas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas; Eletrônica Analógica Aplicada</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA025-13</CÓDIGO>
+    <DISCIPLINA>Sistemas Distribuídos</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI014-17</CÓDIGO>
+    <DISCIPLINA>Sistemas Inteligentes</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Programação Estruturada; Álgebra Linear</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI013-17</CÓDIGO>
+    <DISCIPLINA>Sistemas Microprocessados</DISCIPLINA>
+    <TEORIA>2</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Eletrônica Digital; Dispositivos Eletrônicos</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>MCTA026-13</CÓDIGO>
+    <DISCIPLINA>Sistemas Operacionais</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Arquitetura de Computadores</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI018-17</CÓDIGO>
+    <DISCIPLINA>Tecnologia de Redes Ópticas</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicações Ópticas</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI040-17</CÓDIGO>
+    <DISCIPLINA>Telefonia Fixa e VOIP</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores; Princípios de Comunicação</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI008-17</CÓDIGO>
+    <DISCIPLINA>Teoria da Informação e Códigos</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI020-17</CÓDIGO>
+    <DISCIPLINA>Teoria de Filas e Análise de Desempenho</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Redes de Computadores; Sinais Aleatórios</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI902-17</CÓDIGO>
+    <DISCIPLINA>Trabalho de Graduação I em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>REQUISITO: CPK ? 0,7 na Engenharia de Informação e demais requisitos de acordo com a Resolução de TG vigente</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI903-17</CÓDIGO>
+    <DISCIPLINA>Trabalho de Graduação II em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>REQUISITO: Trabalho de Graduação I em Engenharia de Informação e demais requisitos de acordo com a Resolução de TG vigente</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI904-17</CÓDIGO>
+    <DISCIPLINA>Trabalho de Graduação III em Engenharia de Informação</DISCIPLINA>
+    <TEORIA>0</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>2</CRÉDITOS>
+    <RECOMENDAÇÕES>REQUISITO: Trabalho de Graduação II em Engenharia de Informação e demais requisitos de acordo com a Resolução de TG vigente</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>BCL0307-15</CÓDIGO>
+    <DISCIPLINA>Transformações Químicas</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>2</PRÁTICA>
+    <INDIVIDUAL>6</INDIVIDUAL>
+    <CRÉDITOS>5</CRÉDITOS>
+    <RECOMENDAÇÕES>Estrutura da Matéria</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESTI003-17</CÓDIGO>
+    <DISCIPLINA>Transformadas em Sinais e Sistemas Lineares</DISCIPLINA>
+    <TEORIA>4</TEORIA>
+    <PRÁTICA>0</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Funções de Várias Variáveis</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+  <materia>
+    <CÓDIGO>ESZI028-17</CÓDIGO>
+    <DISCIPLINA>TV Digital</DISCIPLINA>
+    <TEORIA>3</TEORIA>
+    <PRÁTICA>1</PRÁTICA>
+    <INDIVIDUAL>4</INDIVIDUAL>
+    <CRÉDITOS>4</CRÉDITOS>
+    <RECOMENDAÇÕES>Comunicação Digital</RECOMENDAÇÕES>
+    <CATEGORIA>OL</CATEGORIA>
+  </materia>
+</curso>
