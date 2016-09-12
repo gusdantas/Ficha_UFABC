@@ -46,10 +46,10 @@ public class Utils {
 
 
                     switch (categoria) {
-                        case "Obrigatória":
+                        case "ObrigatÃ³ria":
                             categoria = "Obrigatoria";
                             break;
-                        case "Opção Limitada":
+                        case "OpÃ§Ã£o Limitada":
                             categoria = "Limitada";
                             break;
                         default:
@@ -75,10 +75,15 @@ public class Utils {
 		return mFicha;
 	}
 
-	public static MateriaUFABC[] xmlParaCatalogo() {
+	public static MateriaUFABC[] xmlParaCatalogo(int ano) {
 		MateriaUFABC[] mCatalogo = new MateriaUFABC[0];
 		try {
-			File fXmlFile = new File("res/ficha.xml");
+			File fXmlFile;
+			if (ano == 12){
+				fXmlFile = new File("res/catalogo12.xml");
+			} else {
+				fXmlFile = new File("res/catalogo16.xml");
+			}
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(fXmlFile);
@@ -91,10 +96,10 @@ public class Utils {
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 					Element eElement = (Element) nNode;
 
-					String codigo = eElement.getElementsByTagName("CÓDIGO").item(0).getTextContent();
+					String codigo = eElement.getElementsByTagName("CÃ“DIGO").item(0).getTextContent();
 					String nome = eElement.getElementsByTagName("DISCIPLINA").item(0).getTextContent();
 					int teoria = Integer.parseInt(eElement.getElementsByTagName("TEORIA").item(0).getTextContent());
-                    int pratica = Integer.parseInt(eElement.getElementsByTagName("PRÁTICA").item(0).getTextContent());
+                    int pratica = Integer.parseInt(eElement.getElementsByTagName("PRÃ�TICA").item(0).getTextContent());
 
                     mCatalogo[temp] = new MateriaUFABC(new CodigoUFABC(codigo), nome, (teoria+pratica));
 
@@ -106,10 +111,18 @@ public class Utils {
 		return mCatalogo;
 	}
 
-    public static MateriaUFABCProjeto[] xmlParaProjeto() {
+    public static MateriaUFABCProjeto[] xmlParaProjeto(String projeto) {
         MateriaUFABCProjeto[] mProjeto = new MateriaUFABCProjeto[0];
         try {
-            File fXmlFile = new File("res/ficha.xml");
+        	File fXmlFile;
+        	switch (projeto){
+	        	case "ei13":
+	        		fXmlFile = new File("res/ei13.xml");
+	        		break;
+	        	default:
+	        		fXmlFile = new File("res/ei17.xml");
+	        	}
+        	
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(fXmlFile);
@@ -122,9 +135,9 @@ public class Utils {
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     Element eElement = (Element) nNode;
 
-                    String codigo = eElement.getElementsByTagName("CÓDIGO").item(0).getTextContent();
+                    String codigo = eElement.getElementsByTagName("CÃ“DIGO").item(0).getTextContent();
                     String nome = eElement.getElementsByTagName("DISCIPLINA").item(0).getTextContent();
-                    int creditos = Integer.parseInt(eElement.getElementsByTagName("CRÉDITOS").item(0).getTextContent());
+                    int creditos = Integer.parseInt(eElement.getElementsByTagName("CRÃ‰DITOS").item(0).getTextContent());
                     Categoria categoria = Categoria.valueOf(eElement.getElementsByTagName("CATEGORIA").item(0).getTextContent());
 
                     mProjeto[temp] = new MateriaUFABCProjeto(new CodigoUFABC(codigo), nome, creditos, categoria);
