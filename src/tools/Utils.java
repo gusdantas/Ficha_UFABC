@@ -1,5 +1,10 @@
 package tools;
 
+import catalogo.Categoria;
+import materia.MateriaFora;
+import materia.MateriaUFABC;
+import materia.MateriaUFABCCursada;
+import materia.MateriaUFABCProjeto;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -69,4 +74,66 @@ public class Utils {
 		}
 		return mFicha;
 	}
+
+	public static MateriaUFABC[] xmlParaCatalogo() {
+		MateriaUFABC[] mCatalogo = new MateriaUFABC[0];
+		try {
+			File fXmlFile = new File("res/ficha.xml");
+			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+			Document doc = dBuilder.parse(fXmlFile);
+			doc.getDocumentElement().normalize();
+			NodeList nList = doc.getElementsByTagName("materia");
+			mCatalogo = new MateriaUFABC[nList.getLength()];
+
+			for (int temp = 0; temp < nList.getLength(); temp++) {
+				Node nNode = nList.item(temp);
+				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
+					Element eElement = (Element) nNode;
+
+					String codigo = eElement.getElementsByTagName("CÓDIGO").item(0).getTextContent();
+					String nome = eElement.getElementsByTagName("DISCIPLINA").item(0).getTextContent();
+					int teoria = Integer.parseInt(eElement.getElementsByTagName("TEORIA").item(0).getTextContent());
+                    int pratica = Integer.parseInt(eElement.getElementsByTagName("PRÁTICA").item(0).getTextContent());
+
+                    mCatalogo[temp] = new MateriaUFABC(new CodigoUFABC(codigo), nome, (teoria+pratica));
+
+				}
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return mCatalogo;
+	}
+
+    public static MateriaUFABCProjeto[] xmlParaProjeto() {
+        MateriaUFABCProjeto[] mProjeto = new MateriaUFABCProjeto[0];
+        try {
+            File fXmlFile = new File("res/ficha.xml");
+            DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+            DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+            Document doc = dBuilder.parse(fXmlFile);
+            doc.getDocumentElement().normalize();
+            NodeList nList = doc.getElementsByTagName("materia");
+            mProjeto = new MateriaUFABCProjeto[nList.getLength()];
+
+            for (int temp = 0; temp < nList.getLength(); temp++) {
+                Node nNode = nList.item(temp);
+                if (nNode.getNodeType() == Node.ELEMENT_NODE) {
+                    Element eElement = (Element) nNode;
+
+                    String codigo = eElement.getElementsByTagName("CÓDIGO").item(0).getTextContent();
+                    String nome = eElement.getElementsByTagName("DISCIPLINA").item(0).getTextContent();
+                    int creditos = Integer.parseInt(eElement.getElementsByTagName("CRÉDITOS").item(0).getTextContent());
+                    Categoria categoria = Categoria.valueOf(eElement.getElementsByTagName("CATEGORIA").item(0).getTextContent());
+
+                    mProjeto[temp] = new MateriaUFABCProjeto(new CodigoUFABC(codigo), nome, creditos, categoria);
+
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return mProjeto;
+    }
 }

@@ -8,7 +8,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>6</CRÉDITOS>
     <RECOMENDAÇÕES>Geometria Analítica</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1424</CÓDIGO>
@@ -17,18 +17,18 @@
     <PRATICA>2</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
-    <RECOMENDAÇÕES>Programação Orientada a Objetos</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <RECOMENDAÇÕES>Programação Orientada a OBRIGATORIAjetos</RECOMENDAÇÕES>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3630</CÓDIGO>
-    <DISCIPLINA>Aplicações de Microcontroladores</DISCIPLINA>
+    <DISCIPLINA>Aplicações de MicrocontrLIMITADAadores</DISCIPLINA>
     <TEORIA>0</TEORIA>
     <PRATICA>4</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Sistemas Microprocessado; Eletrônica Analógica Aplicada</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3626</CÓDIGO>
@@ -38,7 +38,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Introdução ao Processamento de Sinais de Voz, Áudio e Acústicos</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0001</CÓDIGO>
@@ -48,7 +48,7 @@
     <INDIVIDUAL>2</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0005</CÓDIGO>
@@ -58,17 +58,17 @@
     <INDIVIDUAL>2</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0004</CÓDIGO>
-    <DISCIPLINA>Bases Epistemológicas da Ciência Moderna</DISCIPLINA>
+    <DISCIPLINA>Bases EpistemLIMITADAógicas da Ciência Moderna</DISCIPLINA>
     <TEORIA>3</TEORIA>
     <PRATICA>0</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0003</CÓDIGO>
@@ -78,7 +78,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1419</CÓDIGO>
@@ -88,17 +88,17 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Funções de Uma Variável</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0603</CÓDIGO>
-    <DISCIPLINA>Ciência, Tecnologia e Sociedade</DISCIPLINA>
+    <DISCIPLINA>Ciência, TecnLIMITADAogia e Sociedade</DISCIPLINA>
     <TEORIA>3</TEORIA>
     <PRATICA>0</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1519</CÓDIGO>
@@ -108,7 +108,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2703</CÓDIGO>
@@ -118,7 +118,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2611</CÓDIGO>
@@ -128,7 +128,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Princípios de Comunicação; Sinais Aleatórios</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0506</CÓDIGO>
@@ -138,7 +138,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2620</CÓDIGO>
@@ -148,7 +148,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Comunicação Digital; Propagação e Antenas</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2621</CÓDIGO>
@@ -158,7 +158,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Processamento Digital de Sinais</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2614</CÓDIGO>
@@ -168,7 +168,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2719</CÓDIGO>
@@ -178,7 +178,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2720</CÓDIGO>
@@ -188,7 +188,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES>Dispositivos Eletrônicos</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2605</CÓDIGO>
@@ -198,7 +198,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>6</CRÉDITOS>
     <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0207</CÓDIGO>
@@ -208,7 +208,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3631</CÓDIGO>
@@ -218,7 +218,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1508</CÓDIGO>
@@ -228,7 +228,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>6</CRÉDITOS>
     <RECOMENDAÇÕES>Algoritmos e Estruturas de Dados I</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1713</CÓDIGO>
@@ -238,7 +238,7 @@
     <INDIVIDUAL>3</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN1002</CÓDIGO>
@@ -247,8 +247,8 @@
     <PRATICA>3</PRATICA>
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
-    <RECOMENDAÇÕES>Todas as disciplinas de Opção Limitada do BC&amp;T (Obrigatórias para todas as Engenharias)</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <RECOMENDAÇÕES>Todas as disciplinas de Opção Limitada do BC&amp;T (OBRIGATORIArigatórias para todas as Engenharias)</RECOMENDAÇÕES>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN1004</CÓDIGO>
@@ -258,7 +258,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES>Engenharia Unificada I</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN1601</CÓDIGO>
@@ -267,8 +267,8 @@
     <PRATICA>7</PRATICA>
     <INDIVIDUAL>0</INDIVIDUAL>
     <CRÉDITOS>7</CRÉDITOS>
-    <RECOMENDAÇÕES>Ver resolução de Estágio específica para o curso</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <RECOMENDAÇÕES>Ver resLIMITADAução de Estágio específica para o curso</RECOMENDAÇÕES>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN1602</CÓDIGO>
@@ -278,7 +278,7 @@
     <INDIVIDUAL>0</INDIVIDUAL>
     <CRÉDITOS>7</CRÉDITOS>
     <RECOMENDAÇÕES>Estágio Curricular I</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0102</CÓDIGO>
@@ -288,7 +288,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0602</CÓDIGO>
@@ -298,7 +298,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0209</CÓDIGO>
@@ -308,7 +308,7 @@
     <INDIVIDUAL>6</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0208</CÓDIGO>
@@ -318,7 +318,7 @@
     <INDIVIDUAL>6</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0205</CÓDIGO>
@@ -328,7 +328,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3604</CÓDIGO>
@@ -338,7 +338,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Sinais Aleatórios; Processamento Digital de Sinais</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0103</CÓDIGO>
@@ -348,7 +348,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0402</CÓDIGO>
@@ -358,7 +358,7 @@
     <INDIVIDUAL>6</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0407</CÓDIGO>
@@ -368,7 +368,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1416</CÓDIGO>
@@ -378,7 +378,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3622</CÓDIGO>
@@ -388,7 +388,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Geometria Analítica; Álgebra Linear; Processamento da Informação; Programação de Software Embarcado</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0404</CÓDIGO>
@@ -398,7 +398,7 @@
     <INDIVIDUAL>6</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3610</CÓDIGO>
@@ -408,7 +408,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3601</CÓDIGO>
@@ -418,7 +418,7 @@
     <INDIVIDUAL>3</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3618</CÓDIGO>
@@ -428,37 +428,37 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Eletrônica Digital</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1507</CÓDIGO>
-    <DISCIPLINA>Instrumentação e Controle</DISCIPLINA>
+    <DISCIPLINA>Instrumentação e ContrLIMITADAe</DISCIPLINA>
     <TEORIA>3</TEORIA>
     <PRATICA>1</PRATICA>
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Introdução às Equações Diferenciais Ordinárias; Circuitos Elétricos e Fotônica</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0104</CÓDIGO>
-    <DISCIPLINA>Interações Atômicas e Moleculares</DISCIPLINA>
+    <DISCIPLINA>Interações Atômicas e MLIMITADAeculares</DISCIPLINA>
     <TEORIA>3</TEORIA>
     <PRATICA>0</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0406</CÓDIGO>
-    <DISCIPLINA>Introdução à Probabilidade e à Estatística</DISCIPLINA>
+    <DISCIPLINA>Introdução à PrOBRIGATORIAabilidade e à Estatística</DISCIPLINA>
     <TEORIA>3</TEORIA>
     <PRATICA>0</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3620</CÓDIGO>
@@ -468,7 +468,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Processamento Digital de Sinais</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1710</CÓDIGO>
@@ -478,7 +478,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0405</CÓDIGO>
@@ -488,7 +488,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3617</CÓDIGO>
@@ -498,7 +498,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1105</CÓDIGO>
@@ -508,7 +508,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1103</CÓDIGO>
@@ -518,7 +518,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Fenômenos Térmicos</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1104</CÓDIGO>
@@ -528,7 +528,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Funções de Uma Variável; Fenômenos Mecânicos; Geometria Analítica</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1707</CÓDIGO>
@@ -538,7 +538,7 @@
     <INDIVIDUAL>2</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES>Circuitos Elétricos e Fotônica; Mecânica dos Fluidos I</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0504</CÓDIGO>
@@ -548,7 +548,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2613</CÓDIGO>
@@ -558,7 +558,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Fenômenos Eletromagnéticos</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0304</CÓDIGO>
@@ -568,7 +568,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3627</CÓDIGO>
@@ -578,7 +578,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Comunicação e Redes</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2608</CÓDIGO>
@@ -588,7 +588,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0505</CÓDIGO>
@@ -598,7 +598,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3605</CÓDIGO>
@@ -608,7 +608,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Natureza da Informação</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3612</CÓDIGO>
@@ -618,7 +618,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Comunicações Multimídia; Processamento Digital de Sinais</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2610</CÓDIGO>
@@ -628,7 +628,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3616</CÓDIGO>
@@ -638,7 +638,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2622</CÓDIGO>
@@ -648,17 +648,17 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Geometria Analítica; Álgebra Linear; Processamento da Infomação</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1501</CÓDIGO>
-    <DISCIPLINA>Programação Orientada a Objetos</DISCIPLINA>
+    <DISCIPLINA>Programação Orientada a OBRIGATORIAjetos</DISCIPLINA>
     <TEORIA>2</TEORIA>
     <PRATICA>2</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3625</CÓDIGO>
@@ -668,7 +668,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas; Eletrônica Analógica Aplicada; Sistemas de Micro-ondas</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3621</CÓDIGO>
@@ -678,7 +678,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Processamento Digital de Sinais</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3628</CÓDIGO>
@@ -688,7 +688,7 @@
     <INDIVIDUAL>3</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES>Princípios de Comunicação; Comunicação Digital</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3629</CÓDIGO>
@@ -698,7 +698,7 @@
     <INDIVIDUAL>3</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES>Comunicações Multimídia; Processamento de Vídeo; Introdução ao Processamento de Sinais de Voz, Áudio e Acústicos</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0002</CÓDIGO>
@@ -708,7 +708,7 @@
     <INDIVIDUAL>10</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2615</CÓDIGO>
@@ -718,7 +718,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3608</CÓDIGO>
@@ -728,7 +728,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1513</CÓDIGO>
@@ -738,7 +738,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Processamento da Informação</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3611</CÓDIGO>
@@ -748,7 +748,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Redes de Computadores</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3615</CÓDIGO>
@@ -758,7 +758,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Princípios de Comunicação; Comunicação Digital</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2609</CÓDIGO>
@@ -767,8 +767,8 @@
     <PRATICA>0</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
-    <RECOMENDAÇÕES>Introdução à Probabilidade e à Estatística; Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <RECOMENDAÇÕES>Introdução à PrOBRIGATORIAabilidade e à Estatística; Transformadas em Sinais e Sistemas Lineares</RECOMENDAÇÕES>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3624</CÓDIGO>
@@ -778,7 +778,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Ondas Eletromagnéticas Aplicadas; Eletrônica Analógica Aplicada</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3619</CÓDIGO>
@@ -788,7 +788,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Não há</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2617</CÓDIGO>
@@ -798,17 +798,17 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Eletrônica Digital; Dispositivos Eletrônicos</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3623</CÓDIGO>
-    <DISCIPLINA>Tecnologia de Redes Ópticas</DISCIPLINA>
+    <DISCIPLINA>TecnLIMITADAogia de Redes Ópticas</DISCIPLINA>
     <TEORIA>4</TEORIA>
     <PRATICA>0</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Comunicações Ópticas</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2619</CÓDIGO>
@@ -818,7 +818,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Redes de Computadores; Princípios de Comunicação</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN2612</CÓDIGO>
@@ -828,7 +828,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Comunicação Digital</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3609</CÓDIGO>
@@ -838,7 +838,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Sinais Aleatórios; Redes de Computadores</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1309</CÓDIGO>
@@ -848,7 +848,7 @@
     <INDIVIDUAL>5</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Fenômenos Térmicos</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN1603</CÓDIGO>
@@ -857,8 +857,8 @@
     <PRATICA>2</PRATICA>
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
-    <RECOMENDAÇÕES>Ver resolução de TG específica para o curso</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <RECOMENDAÇÕES>Ver resLIMITADAução de TG específica para o curso</RECOMENDAÇÕES>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN1604</CÓDIGO>
@@ -868,7 +868,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES>Trabalho de Graduação I</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN1605</CÓDIGO>
@@ -878,7 +878,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>2</CRÉDITOS>
     <RECOMENDAÇÕES>Trabalho de Graduação II</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0308</CÓDIGO>
@@ -888,7 +888,7 @@
     <INDIVIDUAL>6</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0306</CÓDIGO>
@@ -898,7 +898,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>3</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC0307</CÓDIGO>
@@ -908,7 +908,7 @@
     <INDIVIDUAL>6</INDIVIDUAL>
     <CRÉDITOS>5</CRÉDITOS>
     <RECOMENDAÇÕES></RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>BC1509</CÓDIGO>
@@ -918,7 +918,7 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Funções de Várias Variáveis</RECOMENDAÇÕES>
-    <CATEGORIA>OB</CATEGORIA>
+    <CATEGORIA>OBRIGATORIA</CATEGORIA>
   </materia>
   <materia>
     <CÓDIGO>EN3606</CÓDIGO>
@@ -928,6 +928,6 @@
     <INDIVIDUAL>4</INDIVIDUAL>
     <CRÉDITOS>4</CRÉDITOS>
     <RECOMENDAÇÕES>Comunicação Digital</RECOMENDAÇÕES>
-    <CATEGORIA>OL</CATEGORIA>
+    <CATEGORIA>LIMITADA</CATEGORIA>
   </materia>
 </curso>

@@ -1,4 +1,8 @@
-package tools;
+package materia;
+
+import catalogo.Categoria;
+import tools.CodigoUFABC;
+import tools.Nota;
 
 /**
  * Created by hdant on 28/08/2016.

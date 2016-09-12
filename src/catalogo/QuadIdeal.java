@@ -1,4 +1,6 @@
-package tools;
+package catalogo;
+
+import materia.MateriaUFABC;
 
 import java.util.ArrayList;
 import java.util.List;
